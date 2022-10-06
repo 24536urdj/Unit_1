@@ -9,3 +9,5 @@ def count_letter(msg,letter:str):
 out = count_letter("hello","l")
 print(out)
 ```
+![](https://github.com/24536urdj/Unit_1/blob/main/Quizzes/Screen%20Shot%202022-10-06%20at%2018.50.57.png)
+
