@@ -1,7 +1,10 @@
 # Crypto Wallet
+# Criteria A : Planning 
 ![](https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDYvNDAyYjUzZGMtN2YzNC00Y2I0LTg4ZDgtYmRiYjg5NmFjODRiLmpwZw==.jpg)  
 ![](https://github.com/24536urdj/Unit_1/blob/main/%20blue%20planning.png) 
 ![](https://github.com/24536urdj/Unit_1/blob/main/Screen%20Shot%202022-10-09%20at%2014.55.58.png)
+# Criteria B : Design 
+
 
 # Criteria C: Development
 
