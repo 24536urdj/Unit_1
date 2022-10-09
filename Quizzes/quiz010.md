@@ -28,6 +28,7 @@
                     else :
                       if n == 10**12 :
                         print(n,"tera")
+    
     power(1
 
  
