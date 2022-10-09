@@ -6,6 +6,7 @@
 # Criteria B : Design 
 "System Diagram"
 ![](https://github.com/24536urdj/Unit_1/blob/main/Screen%20Shot%202022-10-09%20at%2014.59.53.png)
+"Flow diagram"
 
 # Criteria C: Development
 
