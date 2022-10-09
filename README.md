@@ -2,7 +2,7 @@
 
 ![](https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDYvNDAyYjUzZGMtN2YzNC00Y2I0LTg4ZDgtYmRiYjg5NmFjODRiLmpwZw==.jpg)  
  >
-![](Blue Creative Work Schedule Planner.pdf) 
+![](Screen Shot 2022-10-09 at 14.41.22.jpg) 
 
 # Criteria C: Development
 
