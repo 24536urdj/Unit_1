@@ -3,7 +3,6 @@
 ![](https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDYvNDAyYjUzZGMtN2YzNC00Y2I0LTg4ZDgtYmRiYjg5NmFjODRiLmpwZw==.jpg)  
 ## source : https://cointelegraph.com/news/bermuda-confirms-crypto-hub-ambitions-despite-market-downturn 
 ![](https://github.com/24536urdj/Unit_1/blob/main/Screen%20Shot%202022-10-09%20at%2015.38.20.png)
- ![](https://github.com/24536urdj/Unit_1/blob/main/Screen%20Shot%202022-10-09%20at%2014.55.58.png)
 # Criteria B : Design 
 # System Diagram
 ![](https://github.com/24536urdj/Unit_1/blob/main/Screen%20Shot%202022-10-09%20at%2014.59.53.png)
