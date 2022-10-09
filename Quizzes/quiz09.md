@@ -1,6 +1,6 @@
 #Quiz 09
 ## def convert(b) :
-  ## for i in range(len(b)) :
+    for i in range(len(b)) :
     a = ord(b[i]) + 13
     if a > 122 :
       print(chr(a - 26),end="")
