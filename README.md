@@ -1,7 +1,6 @@
 # Crypto Wallet
-
 ![](https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDYvNDAyYjUzZGMtN2YzNC00Y2I0LTg4ZDgtYmRiYjg5NmFjODRiLmpwZw==.jpg)  
- >![](blue planning.jpg) 
+![](blue planning.jpg) 
 
 # Criteria C: Development
 
