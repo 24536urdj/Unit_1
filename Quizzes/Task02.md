@@ -47,5 +47,5 @@
             data = file.readlines()
             for line in data:
                 print(line)
-
+![](https://github.com/24536urdj/Unit_1/blob/main/Quizzes/Screen%20Shot%202022-10-10%20at%203.45.36.png)
 
